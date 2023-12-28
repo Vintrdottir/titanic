@@ -73,7 +73,7 @@ Did larger families fare better, or was it the solo travelers who had a higher c
 Upon examining the histograms, it is not readily apparent how FamilySize directly influences the likelihood of survival. The visual representation does not immediately reveal any discernible patterns or trends regarding the impact of FamilySize on survival outcomes.
 
 
-Conclusion:
+## Conclusion
 In the aftermath of the Titanic disaster, the dataset allows us to piece together the puzzle of survival. Through visualizations and statistical insights, we've uncovered trends that go beyond the historical narrative.
 
 This analysis serves as a tribute to those who boarded the Titanic, offering a glimpse into their stories, choices, and the circumstances that defined their survival. The Titanic dataset continues to be a poignant reminder of the human aspect behind the statistics, inviting us to reflect on the lives affected by this tragic event.

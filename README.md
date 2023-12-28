@@ -14,3 +14,6 @@ The dataset provides details about the individuals who were on the Titanic when 
 - Fare: passenger fare
 - Cabin: cabin number
 - Embarked: port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+## Source
+[Titanic Competition on Kaggle](https://www.kaggle.com/competitions/titanic)
